@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rafacruz91
+- 👋 Hi, I’m Rafael De La Cruz
 - 👀 I’m interested in web development and game development
 - 🌱 I’m currently learning react and js
 - 💞️ I’m looking to collaborate on anything open source or anything that can help me become a better programmer
